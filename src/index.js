@@ -5,7 +5,8 @@
  * @author xcarpentier<contact@xaviercarpentier.com>
  */
 
-import React, {
+import React from 'react';
+import {
   StyleSheet,
   View,
   PixelRatio,
